@@ -1,0 +1,10 @@
+// Write a program to print your name, branch, and roll number
+#include <stdio.h>
+int main() 
+{
+	printf("Name: Isha \n");
+	printf("Branch: Computer Science\n");
+	printf("RollNumber: 4547\n");
+	return 0;
+
+}
